@@ -6,3 +6,4 @@ I had trouble trying to put the entire game up here because of problems with LFS
 So until I figure it out, this will just contain all my coding. That's all you really need to see though, right?
 
 Gamejolt link: http://gamejolt.com/games/mage-battles/153090
+Includes download link and screenshots.
